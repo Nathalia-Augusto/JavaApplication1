@@ -8,7 +8,7 @@ package javaapplication1;
  *
  * @author ALUNO
  */
-public class JavaApplication1 {
+public class JavaApplication1 
 
     /**
      * @param args the command line arguments
